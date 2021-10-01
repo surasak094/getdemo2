@@ -15,7 +15,7 @@
     }
 
     //Get current date and time
-    date_default_timezone_set('Asia/Kolkata');
+    date_default_timezone_set('Asia/Bangkok');
     $d = date("Y-m-d");
     //echo " Date:".$d."<BR>";
     $t = date("H:i:s");
